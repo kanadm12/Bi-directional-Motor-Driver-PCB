@@ -1,0 +1,629 @@
+Removed Member From Class: ClassName=[3]-STM32F103 Debugger Member=C?
+Removed Member From Class: ClassName=[4]- Ethernet PHY Member=C?
+Removed Member From Class: ClassName=[5]-Motor Driver Schematic Member=C?
+Removed Member From Class: ClassName=[6]-CH340C Member=C?
+Removed Member From Class: ClassName=[7]- ADC Chip Member=C?
+Removed Member From Class: ClassName=[8]-DAC and MIC Member=C?
+Removed Member From Class: ClassName=[9]-STM32F407 Controller Member=C?
+Removed Member From Class: ClassName=[11]- Power Input and Regulators Member=C?
+Removed Member From Class: ClassName=[11]- Power Input and Regulators Member=D?
+Removed Member From Class: ClassName=[4]- Ethernet PHY Member=FB?
+Removed Member From Class: ClassName=[7]- ADC Chip Member=FB?
+Removed Member From Class: ClassName=[8]-DAC and MIC Member=FB?
+Removed Member From Class: ClassName=[4]- Ethernet PHY Member=J?
+Removed Member From Class: ClassName=[5]-Motor Driver Schematic Member=J?
+Removed Member From Class: ClassName=[6]-CH340C Member=J?
+Removed Member From Class: ClassName=[7]- ADC Chip Member=J?
+Removed Member From Class: ClassName=[8]-DAC and MIC Member=J?
+Removed Member From Class: ClassName=[9]-STM32F407 Controller Member=J?
+Removed Member From Class: ClassName=[10]-Motor Driver-2 Member=J?
+Removed Member From Class: ClassName=[11]- Power Input and Regulators Member=J?
+Removed Member From Class: ClassName=[10]-Motor Driver-2 Member=Q?
+Removed Member From Class: ClassName=[3]-STM32F103 Debugger Member=R?
+Removed Member From Class: ClassName=[5]-Motor Driver Schematic Member=R?
+Removed Member From Class: ClassName=[7]- ADC Chip Member=R?
+Removed Member From Class: ClassName=[8]-DAC and MIC Member=R?
+Removed Member From Class: ClassName=[9]-STM32F407 Controller Member=R?
+Removed Member From Class: ClassName=[10]-Motor Driver-2 Member=R?
+Removed Member From Class: ClassName=[3]-STM32F103 Debugger Member=SW?
+Removed Member From Class: ClassName=[9]-STM32F407 Controller Member=SW?
+Removed Member From Class: ClassName=[3]-STM32F103 Debugger Member=U?
+Removed Member From Class: ClassName=[4]- Ethernet PHY Member=U?
+Removed Member From Class: ClassName=[5]-Motor Driver Schematic Member=U?
+Removed Member From Class: ClassName=[6]-CH340C Member=U?
+Removed Member From Class: ClassName=[8]-DAC and MIC Member=U?
+Removed Member From Class: ClassName=[9]-STM32F407 Controller Member=U?
+Removed Member From Class: ClassName=[10]-Motor Driver-2 Member=U?
+Removed Member From Class: ClassName=[11]- Power Input and Regulators Member=U?
+Removed Member From Class: ClassName=[9]-STM32F407 Controller Member=X?
+Change Component Designator: OldDesignator=C? NewDesignator=C1
+Change Component Designator: OldDesignator=C? NewDesignator=C2
+Change Component Designator: OldDesignator=C? NewDesignator=C3
+Change Component Designator: OldDesignator=C? NewDesignator=C4
+Change Component Designator: OldDesignator=C? NewDesignator=C5
+Change Component Designator: OldDesignator=C? NewDesignator=C6
+Change Component Designator: OldDesignator=C? NewDesignator=C7
+Change Component Designator: OldDesignator=C? NewDesignator=C8
+Change Component Designator: OldDesignator=C? NewDesignator=C9
+Change Component Designator: OldDesignator=C? NewDesignator=C10
+Change Component Designator: OldDesignator=C? NewDesignator=C11
+Change Component Designator: OldDesignator=C? NewDesignator=C12
+Change Component Designator: OldDesignator=C? NewDesignator=C13
+Change Component Designator: OldDesignator=C? NewDesignator=C14
+Change Component Designator: OldDesignator=C? NewDesignator=C15
+Change Component Designator: OldDesignator=C? NewDesignator=C16
+Change Component Designator: OldDesignator=C? NewDesignator=C17
+Change Component Designator: OldDesignator=C? NewDesignator=C18
+Change Component Designator: OldDesignator=C? NewDesignator=C19
+Change Component Designator: OldDesignator=C? NewDesignator=C20
+Change Component Designator: OldDesignator=C? NewDesignator=C21
+Change Component Designator: OldDesignator=C? NewDesignator=C22
+Change Component Designator: OldDesignator=C? NewDesignator=C23
+Change Component Designator: OldDesignator=C? NewDesignator=C24
+Change Component Designator: OldDesignator=C? NewDesignator=C25
+Change Component Designator: OldDesignator=C? NewDesignator=C26
+Change Component Designator: OldDesignator=C? NewDesignator=C27
+Change Component Designator: OldDesignator=C? NewDesignator=C28
+Change Component Designator: OldDesignator=C? NewDesignator=C29
+Change Component Designator: OldDesignator=C? NewDesignator=C30
+Change Component Designator: OldDesignator=C? NewDesignator=C31
+Change Component Designator: OldDesignator=C? NewDesignator=C32
+Change Component Designator: OldDesignator=C? NewDesignator=C33
+Change Component Designator: OldDesignator=C? NewDesignator=C34
+Change Component Designator: OldDesignator=C? NewDesignator=C35
+Change Component Designator: OldDesignator=C? NewDesignator=C36
+Change Component Designator: OldDesignator=C? NewDesignator=C37
+Change Component Designator: OldDesignator=C? NewDesignator=C38
+Change Component Designator: OldDesignator=C? NewDesignator=C39
+Change Component Designator: OldDesignator=C? NewDesignator=C40
+Change Component Designator: OldDesignator=C? NewDesignator=C41
+Change Component Designator: OldDesignator=C? NewDesignator=C42
+Change Component Designator: OldDesignator=C? NewDesignator=C43
+Change Component Designator: OldDesignator=C? NewDesignator=C44
+Change Component Designator: OldDesignator=C? NewDesignator=C45
+Change Component Designator: OldDesignator=C? NewDesignator=C46
+Change Component Designator: OldDesignator=C? NewDesignator=C47
+Change Component Designator: OldDesignator=C? NewDesignator=C48
+Change Component Designator: OldDesignator=C? NewDesignator=C49
+Change Component Designator: OldDesignator=C? NewDesignator=C50
+Change Component Designator: OldDesignator=C? NewDesignator=C51
+Change Component Designator: OldDesignator=C? NewDesignator=C52
+Change Component Designator: OldDesignator=C? NewDesignator=C53
+Change Component Designator: OldDesignator=C? NewDesignator=C54
+Change Component Designator: OldDesignator=C? NewDesignator=C55
+Change Component Designator: OldDesignator=C? NewDesignator=C56
+Change Component Designator: OldDesignator=C? NewDesignator=C57
+Change Component Designator: OldDesignator=C? NewDesignator=C58
+Change Component Designator: OldDesignator=C? NewDesignator=C59
+Change Component Designator: OldDesignator=C? NewDesignator=C60
+Change Component Designator: OldDesignator=C? NewDesignator=C61
+Change Component Designator: OldDesignator=C? NewDesignator=C62
+Change Component Designator: OldDesignator=C? NewDesignator=C63
+Change Component Designator: OldDesignator=C? NewDesignator=C64
+Change Component Designator: OldDesignator=C? NewDesignator=C65
+Change Component Designator: OldDesignator=C? NewDesignator=C66
+Change Component Designator: OldDesignator=C? NewDesignator=C67
+Change Component Designator: OldDesignator=C? NewDesignator=C68
+Change Component Designator: OldDesignator=C? NewDesignator=C69
+Change Component Designator: OldDesignator=C? NewDesignator=C70
+Change Component Designator: OldDesignator=C? NewDesignator=C71
+Change Component Designator: OldDesignator=C? NewDesignator=C72
+Change Component Designator: OldDesignator=C? NewDesignator=C73
+Change Component Designator: OldDesignator=C? NewDesignator=C74
+Change Component Designator: OldDesignator=C? NewDesignator=C75
+Change Component Designator: OldDesignator=C? NewDesignator=C76
+Change Component Designator: OldDesignator=C? NewDesignator=C77
+Change Component Designator: OldDesignator=C? NewDesignator=C78
+Change Component Designator: OldDesignator=C? NewDesignator=C79
+Change Component Designator: OldDesignator=C? NewDesignator=C80
+Change Component Designator: OldDesignator=C? NewDesignator=C81
+Change Component Designator: OldDesignator=C? NewDesignator=C82
+Change Component Designator: OldDesignator=C? NewDesignator=C83
+Change Component Designator: OldDesignator=C? NewDesignator=C84
+Change Component Designator: OldDesignator=C? NewDesignator=C85
+Change Component Designator: OldDesignator=C? NewDesignator=C86
+Change Component Designator: OldDesignator=C? NewDesignator=C87
+Change Component Designator: OldDesignator=C? NewDesignator=C88
+Change Component Designator: OldDesignator=C? NewDesignator=C89
+Change Component Designator: OldDesignator=C? NewDesignator=C90
+Change Component Designator: OldDesignator=C? NewDesignator=C91
+Change Component Designator: OldDesignator=C? NewDesignator=C92
+Change Component Designator: OldDesignator=D? NewDesignator=D1
+Change Component Designator: OldDesignator=D? NewDesignator=D2
+Change Component Designator: OldDesignator=D? NewDesignator=D3
+Change Component Designator: OldDesignator=D? NewDesignator=D4
+Change Component Designator: OldDesignator=D? NewDesignator=D5
+Change Component Designator: OldDesignator=D? NewDesignator=D6
+Change Component Designator: OldDesignator=D? NewDesignator=D7
+Change Component Designator: OldDesignator=DS? NewDesignator=DS1
+Change Component Designator: OldDesignator=DS? NewDesignator=DS2
+Change Component Designator: OldDesignator=FB? NewDesignator=FB1
+Change Component Designator: OldDesignator=FB? NewDesignator=FB2
+Change Component Designator: OldDesignator=FB? NewDesignator=FB3
+Change Component Designator: OldDesignator=FB? NewDesignator=FB4
+Change Component Designator: OldDesignator=J? NewDesignator=J1
+Change Component Designator: OldDesignator=J? NewDesignator=J2
+Change Component Designator: OldDesignator=J? NewDesignator=J3
+Change Component Designator: OldDesignator=J? NewDesignator=J4
+Change Component Designator: OldDesignator=J? NewDesignator=J5
+Change Component Designator: OldDesignator=J? NewDesignator=J6
+Change Component Designator: OldDesignator=J? NewDesignator=J7
+Change Component Designator: OldDesignator=J? NewDesignator=J8
+Change Component Designator: OldDesignator=J? NewDesignator=J9
+Change Component Designator: OldDesignator=J? NewDesignator=J10
+Change Component Designator: OldDesignator=J? NewDesignator=J11
+Change Component Designator: OldDesignator=Q? NewDesignator=Q1
+Change Component Designator: OldDesignator=Q? NewDesignator=Q2
+Change Component Designator: OldDesignator=R? NewDesignator=R1
+Change Component Designator: OldDesignator=R? NewDesignator=R2
+Change Component Designator: OldDesignator=R? NewDesignator=R3
+Change Component Designator: OldDesignator=R? NewDesignator=R4
+Change Component Designator: OldDesignator=R? NewDesignator=R5
+Change Component Designator: OldDesignator=R? NewDesignator=R6
+Change Component Designator: OldDesignator=R? NewDesignator=R7
+Change Component Designator: OldDesignator=R? NewDesignator=R8
+Change Component Designator: OldDesignator=R? NewDesignator=R9
+Change Component Designator: OldDesignator=R? NewDesignator=R10
+Change Component Designator: OldDesignator=R? NewDesignator=R11
+Change Component Designator: OldDesignator=R? NewDesignator=R12
+Change Component Designator: OldDesignator=R? NewDesignator=R13
+Change Component Designator: OldDesignator=R? NewDesignator=R14
+Change Component Designator: OldDesignator=R? NewDesignator=R15
+Change Component Designator: OldDesignator=R? NewDesignator=R16
+Change Component Designator: OldDesignator=R? NewDesignator=R17
+Change Component Designator: OldDesignator=R? NewDesignator=R18
+Change Component Designator: OldDesignator=R? NewDesignator=R19
+Change Component Designator: OldDesignator=R? NewDesignator=R20
+Change Component Designator: OldDesignator=R? NewDesignator=R21
+Change Component Designator: OldDesignator=R? NewDesignator=R22
+Change Component Designator: OldDesignator=R? NewDesignator=R23
+Change Component Designator: OldDesignator=R? NewDesignator=R24
+Change Component Designator: OldDesignator=R? NewDesignator=R25
+Change Component Designator: OldDesignator=R? NewDesignator=R26
+Change Component Designator: OldDesignator=R? NewDesignator=R27
+Change Component Designator: OldDesignator=R? NewDesignator=R28
+Change Component Designator: OldDesignator=R? NewDesignator=R29
+Change Component Designator: OldDesignator=R? NewDesignator=R30
+Change Component Designator: OldDesignator=R? NewDesignator=R31
+Change Component Designator: OldDesignator=R? NewDesignator=R32
+Change Component Designator: OldDesignator=R? NewDesignator=R33
+Change Component Designator: OldDesignator=R? NewDesignator=R34
+Change Component Designator: OldDesignator=R? NewDesignator=R35
+Change Component Designator: OldDesignator=R? NewDesignator=R36
+Change Component Designator: OldDesignator=R? NewDesignator=R37
+Change Component Designator: OldDesignator=R? NewDesignator=R38
+Change Component Designator: OldDesignator=R? NewDesignator=R39
+Change Component Designator: OldDesignator=R? NewDesignator=R40
+Change Component Designator: OldDesignator=R? NewDesignator=R41
+Change Component Designator: OldDesignator=R? NewDesignator=R42
+Change Component Designator: OldDesignator=R? NewDesignator=R43
+Change Component Designator: OldDesignator=R? NewDesignator=R44
+Change Component Designator: OldDesignator=R? NewDesignator=R45
+Change Component Designator: OldDesignator=R? NewDesignator=R46
+Change Component Designator: OldDesignator=R? NewDesignator=R47
+Change Component Designator: OldDesignator=R? NewDesignator=R48
+Change Component Designator: OldDesignator=SW? NewDesignator=SW1
+Change Component Designator: OldDesignator=SW? NewDesignator=SW2
+Change Component Designator: OldDesignator=SW? NewDesignator=SW3
+Change Component Designator: OldDesignator=U? NewDesignator=U1
+Change Component Designator: OldDesignator=U? NewDesignator=U2
+Change Component Designator: OldDesignator=U? NewDesignator=U3
+Change Component Designator: OldDesignator=U? NewDesignator=U4
+Change Component Designator: OldDesignator=U? NewDesignator=U5
+Change Component Designator: OldDesignator=U? NewDesignator=U6
+Change Component Designator: OldDesignator=U? NewDesignator=U7
+Change Component Designator: OldDesignator=U? NewDesignator=U8
+Change Component Designator: OldDesignator=U? NewDesignator=U9
+Change Component Designator: OldDesignator=U? NewDesignator=U10
+Change Component Designator: OldDesignator=U? NewDesignator=U11
+Change Component Designator: OldDesignator=X? NewDesignator=X1
+Change Component Designator: OldDesignator=X? NewDesignator=X2
+Change Component Designator: OldDesignator=Y? NewDesignator=Y1
+Added Pin To Net: NetName=TX_D3 Pin=U8-1
+Added Pin To Net: NetName=+3V3 Pin=U8-6
+Added Pin To Net: NetName=+3V3 Pin=U8-11
+Added Pin To Net: NetName=NTRST_F407 Pin=U8-14
+Added Pin To Net: NetName=MDC Pin=U8-16
+Added Pin To Net: NetName=TX_D2 Pin=U8-17
+Added Pin To Net: NetName=TX_CLK Pin=U8-18
+Added Pin To Net: NetName=+3V3 Pin=U8-19
+Added Pin To Net: NetName=CRS Pin=U8-23
+Added Pin To Net: NetName=RX_CLK Pin=U8-24
+Added Pin To Net: NetName=MDIO Pin=U8-25
+Added Pin To Net: NetName=COL Pin=U8-26
+Added Pin To Net: NetName=+3V3 Pin=U8-28
+Added Pin To Net: NetName=MCLK Pin=U8-29
+Added Pin To Net: NetName=SO Pin=U8-30
+Added Pin To Net: NetName=SO_2 Pin=U8-31
+Added Pin To Net: NetName=RX_DV Pin=U8-32
+Added Pin To Net: NetName=RX_D0 Pin=U8-33
+Added Pin To Net: NetName=RX_D1 Pin=U8-34
+Added Pin To Net: NetName=RX_D2 Pin=U8-35
+Added Pin To Net: NetName=RX_D3 Pin=U8-36
+Added Pin To Net: NetName=EN Pin=U8-45
+Added Pin To Net: NetName=RX_ER Pin=U8-47
+Added Pin To Net: NetName=TX_EN Pin=U8-48
+Added Pin To Net: NetName=+3V3 Pin=U8-50
+Added Pin To Net: NetName=TX_D0 Pin=U8-51
+Added Pin To Net: NetName=TX_D1 Pin=U8-52
+Added Pin To Net: NetName=RESET_DAC Pin=U8-54
+Added Pin To Net: NetName=RESET Pin=U8-55
+Added Pin To Net: NetName=DRDY Pin=U8-56
+Added Pin To Net: NetName=CH340_RST Pin=U8-57
+Added Pin To Net: NetName=SNSOUT_2 Pin=U8-58
+Added Pin To Net: NetName=nFAULT_2 Pin=U8-59
+Added Pin To Net: NetName=PH_2 Pin=U8-60
+Added Pin To Net: NetName=SNSOUT Pin=U8-61
+Added Pin To Net: NetName=nFAULT Pin=U8-62
+Added Pin To Net: NetName=PH Pin=U8-63
+Added Pin To Net: NetName=PHY_RESET Pin=U8-64
+Added Pin To Net: NetName=CLK_MIC Pin=U8-65
+Added Pin To Net: NetName=EN_2 Pin=U8-66
+Added Pin To Net: NetName=EXT_UART_TX Pin=U8-68
+Added Pin To Net: NetName=EXT_UART_RX Pin=U8-69
+Added Pin To Net: NetName=CAN_RX Pin=U8-70
+Added Pin To Net: NetName=CAN_TX Pin=U8-71
+Added Pin To Net: NetName=JTMS_F407 Pin=U8-72
+Added Pin To Net: NetName=+3V3 Pin=U8-75
+Added Pin To Net: NetName=JTCLK_F407 Pin=U8-76
+Added Pin To Net: NetName=CH340_TXDPort Pin=U8-78
+Added Pin To Net: NetName=CH340_RXD Pin=U8-79
+Added Pin To Net: NetName=SDIN Pin=U8-80
+Added Pin To Net: NetName=SCLK Pin=U8-89
+Added Pin To Net: NetName=LRCK Pin=U8-90
+Added Pin To Net: NetName=SCL Pin=U8-92
+Added Pin To Net: NetName=SDA Pin=U8-93
+Added Pin To Net: NetName=SN Pin=U8-99
+Added Pin To Net: NetName=+3V3 Pin=U8-100
+Change Net Name : Old Net Name=NetC?_1 New Net Name=NetC51_1
+Change Net Name : Old Net Name=NetC?_2 New Net Name=NetC6_2
+Change Net Name : Old Net Name=NetDS?_K New Net Name=NetDS2_K
+Change Net Name : Old Net Name=NetJ?_2 New Net Name=NetJ7_2
+Change Net Name : Old Net Name=NetJ?_3 New Net Name=NetJ7_3
+Change Net Name : Old Net Name=NetQ?_7 New Net Name=NetQ1_7
+Change Net Name : Old Net Name=NetR?_1 New Net Name=NetR13_1
+Change Net Name : Old Net Name=NetR?_2 New Net Name=NetR20_2
+Added Pin To Net: NetName=NetC5_2 Pin=C5-2
+Added Pin To Net: NetName=NetC5_2 Pin=U1-5
+Added Pin To Net: NetName=NetC5_2 Pin=X1-2
+Added Net: Name=NetC5_2
+Added Pin To Net: NetName=NetC10_2 Pin=C10-2
+Added Pin To Net: NetName=NetC10_2 Pin=U2-2
+Added Net: Name=NetC10_2
+Added Pin To Net: NetName=NetC11_2 Pin=C11-2
+Added Pin To Net: NetName=NetC11_2 Pin=C12-2
+Added Pin To Net: NetName=NetC11_2 Pin=C13-2
+Added Pin To Net: NetName=NetC11_2 Pin=C14-2
+Added Pin To Net: NetName=NetC11_2 Pin=FB1-2
+Added Pin To Net: NetName=NetC11_2 Pin=U2-3
+Added Net: Name=NetC11_2
+Added Pin To Net: NetName=NetC15_2 Pin=C15-2
+Added Pin To Net: NetName=NetC15_2 Pin=U2-8
+Added Pin To Net: NetName=NetC15_2 Pin=Y1-2
+Added Net: Name=NetC15_2
+Added Pin To Net: NetName=NetC20_2 Pin=C20-2
+Added Pin To Net: NetName=NetC20_2 Pin=U2-9
+Added Pin To Net: NetName=NetC20_2 Pin=Y1-1
+Added Net: Name=NetC20_2
+Added Pin To Net: NetName=NetC21_2 Pin=C21-2
+Added Pin To Net: NetName=NetC21_2 Pin=J3-9
+Added Pin To Net: NetName=NetC21_2 Pin=J3-10
+Added Pin To Net: NetName=NetC21_2 Pin=R12-2
+Added Net: Name=NetC21_2
+Added Pin To Net: NetName=NetC22_1 Pin=C22-1
+Added Pin To Net: NetName=NetC22_1 Pin=U3-3
+Added Net: Name=NetC22_1
+Added Pin To Net: NetName=NetC22_2 Pin=C22-2
+Added Pin To Net: NetName=NetC22_2 Pin=U3-4
+Added Net: Name=NetC22_2
+Added Pin To Net: NetName=NetC23_1 Pin=C23-1
+Added Pin To Net: NetName=NetC23_1 Pin=U3-2
+Added Net: Name=NetC23_1
+Added Pin To Net: NetName=NetC26_2 Pin=C26-2
+Added Pin To Net: NetName=NetC26_2 Pin=R13-2
+Added Pin To Net: NetName=NetC26_2 Pin=U3-7
+Added Net: Name=NetC26_2
+Added Pin To Net: NetName=NetC30_2 Pin=C30-2
+Added Pin To Net: NetName=NetC30_2 Pin=FB2-2
+Added Pin To Net: NetName=NetC30_2 Pin=U5-12
+Added Net: Name=NetC30_2
+Added Pin To Net: NetName=NetC32_1 Pin=C32-1
+Added Pin To Net: NetName=NetC32_1 Pin=C33-2
+Added Pin To Net: NetName=NetC32_1 Pin=R29-1
+Added Pin To Net: NetName=NetC32_1 Pin=U5-10
+Added Net: Name=NetC32_1
+Added Pin To Net: NetName=NetC32_2 Pin=C32-2
+Added Pin To Net: NetName=NetC32_2 Pin=C34-2
+Added Pin To Net: NetName=NetC32_2 Pin=R28-1
+Added Pin To Net: NetName=NetC32_2 Pin=U5-11
+Added Net: Name=NetC32_2
+Added Pin To Net: NetName=NetC35_1 Pin=C35-1
+Added Pin To Net: NetName=NetC35_1 Pin=R31-2
+Added Net: Name=NetC35_1
+Added Pin To Net: NetName=NetC36_2 Pin=C36-2
+Added Pin To Net: NetName=NetC36_2 Pin=C40-2
+Added Pin To Net: NetName=NetC36_2 Pin=C41-2
+Added Pin To Net: NetName=NetC36_2 Pin=FB3-2
+Added Pin To Net: NetName=NetC36_2 Pin=U6-13
+Added Pin To Net: NetName=NetC36_2 Pin=U6-16
+Added Net: Name=NetC36_2
+Added Pin To Net: NetName=NetC39_1 Pin=C39-1
+Added Pin To Net: NetName=NetC39_1 Pin=R30-2
+Added Net: Name=NetC39_1
+Added Pin To Net: NetName=NetC42_1 Pin=C42-1
+Added Pin To Net: NetName=NetC42_1 Pin=U6-11
+Added Net: Name=NetC42_1
+Added Pin To Net: NetName=NetC42_2 Pin=C42-2
+Added Pin To Net: NetName=NetC42_2 Pin=U6-12
+Added Net: Name=NetC42_2
+Added Pin To Net: NetName=NetC43_2 Pin=C43-2
+Added Pin To Net: NetName=NetC43_2 Pin=U6-10
+Added Net: Name=NetC43_2
+Added Pin To Net: NetName=NetC48_1 Pin=C48-1
+Added Pin To Net: NetName=NetC48_1 Pin=U6-27
+Added Net: Name=NetC48_1
+Added Pin To Net: NetName=NetC49_1 Pin=C49-1
+Added Pin To Net: NetName=NetC49_1 Pin=U6-28
+Added Net: Name=NetC49_1
+Added Pin To Net: NetName=NetC50_1 Pin=C50-1
+Added Pin To Net: NetName=NetC50_1 Pin=U6-18
+Added Net: Name=NetC50_1
+Added Pin To Net: NetName=NetC56_1 Pin=C56-1
+Added Pin To Net: NetName=NetC56_1 Pin=U8-12
+Added Pin To Net: NetName=NetC56_1 Pin=X2-2
+Added Net: Name=NetC56_1
+Added Pin To Net: NetName=NetC58_1 Pin=C58-1
+Added Pin To Net: NetName=NetC58_1 Pin=U8-13
+Added Pin To Net: NetName=NetC58_1 Pin=X2-1
+Added Net: Name=NetC58_1
+Added Pin To Net: NetName=NetC65_2 Pin=C65-2
+Added Pin To Net: NetName=NetC65_2 Pin=U8-73
+Added Net: Name=NetC65_2
+Added Pin To Net: NetName=NetC66_2 Pin=C66-2
+Added Pin To Net: NetName=NetC66_2 Pin=U8-49
+Added Net: Name=NetC66_2
+Added Pin To Net: NetName=NetC67_2 Pin=C67-2
+Added Pin To Net: NetName=NetC67_2 Pin=C68-2
+Added Pin To Net: NetName=NetC67_2 Pin=C69-2
+Added Pin To Net: NetName=NetC67_2 Pin=C70-2
+Added Pin To Net: NetName=NetC67_2 Pin=FB4-2
+Added Pin To Net: NetName=NetC67_2 Pin=U8-21
+Added Pin To Net: NetName=NetC67_2 Pin=U8-22
+Added Net: Name=NetC67_2
+Added Pin To Net: NetName=NetC72_1 Pin=C72-1
+Added Pin To Net: NetName=NetC72_1 Pin=U9-3
+Added Net: Name=NetC72_1
+Added Pin To Net: NetName=NetC72_2 Pin=C72-2
+Added Pin To Net: NetName=NetC72_2 Pin=U9-4
+Added Net: Name=NetC72_2
+Added Pin To Net: NetName=NetC73_1 Pin=C73-1
+Added Pin To Net: NetName=NetC73_1 Pin=U9-2
+Added Net: Name=NetC73_1
+Added Pin To Net: NetName=NetC76_2 Pin=C76-2
+Added Pin To Net: NetName=NetC76_2 Pin=R37-2
+Added Pin To Net: NetName=NetC76_2 Pin=U9-7
+Added Net: Name=NetC76_2
+Added Pin To Net: NetName=NetC84_2 Pin=C84-2
+Added Pin To Net: NetName=NetC84_2 Pin=C85-2
+Added Pin To Net: NetName=NetC84_2 Pin=C86-2
+Added Pin To Net: NetName=NetC84_2 Pin=D5-K
+Added Pin To Net: NetName=NetC84_2 Pin=U10-3
+Added Net: Name=NetC84_2
+Added Pin To Net: NetName=NetC90_2 Pin=C90-2
+Added Pin To Net: NetName=NetC90_2 Pin=C91-2
+Added Pin To Net: NetName=NetC90_2 Pin=C92-2
+Added Pin To Net: NetName=NetC90_2 Pin=D7-K
+Added Pin To Net: NetName=NetC90_2 Pin=U11-3
+Added Net: Name=NetC90_2
+Added Pin To Net: NetName=NetDS1_K Pin=DS1-K
+Added Pin To Net: NetName=NetDS1_K Pin=R6-2
+Added Net: Name=NetDS1_K
+Added Pin To Net: NetName=NetQ2_7 Pin=Q2-7
+Added Pin To Net: NetName=NetQ2_7 Pin=R43-2
+Added Net: Name=NetQ2_7
+Added Pin To Net: NetName=NetR1_2 Pin=R1-2
+Added Pin To Net: NetName=NetR1_2 Pin=U1-44
+Added Net: Name=NetR1_2
+Added Pin To Net: NetName=NetR4_2 Pin=R4-2
+Added Pin To Net: NetName=NetR4_2 Pin=U1-20
+Added Net: Name=NetR4_2
+Added Pin To Net: NetName=NetR9_1 Pin=R9-1
+Added Pin To Net: NetName=NetR9_1 Pin=U2-1
+Added Net: Name=NetR9_1
+Added Pin To Net: NetName=NetR11_2 Pin=R11-2
+Added Pin To Net: NetName=NetR11_2 Pin=U2-10
+Added Net: Name=NetR11_2
+Added Pin To Net: NetName=NetR21_2 Pin=R21-2
+Added Pin To Net: NetName=NetR21_2 Pin=U3-13
+Added Net: Name=NetR21_2
+Added Pin To Net: NetName=NetR33_1 Pin=R33-1
+Added Pin To Net: NetName=NetR33_1 Pin=U7-2
+Added Net: Name=NetR33_1
+Added Pin To Net: NetName=NetR34_2 Pin=R34-2
+Added Pin To Net: NetName=NetR34_2 Pin=U8-37
+Added Net: Name=NetR34_2
+Added Pin To Net: NetName=NetR36_1 Pin=R36-1
+Added Pin To Net: NetName=NetR36_1 Pin=U8-94
+Added Net: Name=NetR36_1
+Added Pin To Net: NetName=NetR37_1 Pin=R37-1
+Added Pin To Net: NetName=NetR37_1 Pin=R38-2
+Added Pin To Net: NetName=NetR37_1 Pin=U9-6
+Added Net: Name=NetR37_1
+Added Pin To Net: NetName=NetR44_2 Pin=R44-2
+Added Pin To Net: NetName=NetR44_2 Pin=U9-12
+Added Net: Name=NetR44_2
+Added Pin To Net: NetName=NetR45_2 Pin=R45-2
+Added Pin To Net: NetName=NetR45_2 Pin=U9-13
+Added Net: Name=NetR45_2
+Added Member To Class: ClassName=[3]-STM32F103 Debugger Member=Component C1 4.7uF
+Added Member To Class: ClassName=[3]-STM32F103 Debugger Member=Component C2 0.1uF
+Added Member To Class: ClassName=[3]-STM32F103 Debugger Member=Component C3 0.1uF
+Added Member To Class: ClassName=[3]-STM32F103 Debugger Member=Component C4 0.1uF
+Added Member To Class: ClassName=[3]-STM32F103 Debugger Member=Component C5 30pF
+Added Member To Class: ClassName=[3]-STM32F103 Debugger Member=Component C6 30pF
+Added Member To Class: ClassName=[3]-STM32F103 Debugger Member=Component C7 1uF
+Added Member To Class: ClassName=[3]-STM32F103 Debugger Member=Component C8 10nF
+Added Member To Class: ClassName=[3]-STM32F103 Debugger Member=Component C9 0.1uF
+Added Member To Class: ClassName=[4]- Ethernet PHY Member=Component C10 2nF
+Added Member To Class: ClassName=[4]- Ethernet PHY Member=Component C11 10uF
+Added Member To Class: ClassName=[4]- Ethernet PHY Member=Component C12 1uF
+Added Member To Class: ClassName=[4]- Ethernet PHY Member=Component C13 0.1uF
+Added Member To Class: ClassName=[4]- Ethernet PHY Member=Component C14 10nF
+Added Member To Class: ClassName=[4]- Ethernet PHY Member=Component C15 20pF
+Added Member To Class: ClassName=[4]- Ethernet PHY Member=Component C16 10nF
+Added Member To Class: ClassName=[4]- Ethernet PHY Member=Component C17 0.1uF
+Added Member To Class: ClassName=[4]- Ethernet PHY Member=Component C18 1uF
+Added Member To Class: ClassName=[4]- Ethernet PHY Member=Component C19 10uF
+Added Member To Class: ClassName=[4]- Ethernet PHY Member=Component C20 20pF
+Added Member To Class: ClassName=[4]- Ethernet PHY Member=Component C21 10nF
+Added Member To Class: ClassName=[5]-Motor Driver Schematic Member=Component C22 0.1uF
+Added Member To Class: ClassName=[5]-Motor Driver Schematic Member=Component C23 1uF
+Added Member To Class: ClassName=[5]-Motor Driver Schematic Member=Component C24 100uF
+Added Member To Class: ClassName=[5]-Motor Driver Schematic Member=Component C25 0.1uF
+Added Member To Class: ClassName=[5]-Motor Driver Schematic Member=Component C26 1uF
+Added Member To Class: ClassName=[5]-Motor Driver Schematic Member=Component C27 1uF
+Added Member To Class: ClassName=[6]-CH340C Member=Component C28 0.1uF
+Added Member To Class: ClassName=[7]- ADC Chip Member=Component C29 0.1uF
+Added Member To Class: ClassName=[7]- ADC Chip Member=Component C30 0.1uF
+Added Member To Class: ClassName=[7]- ADC Chip Member=Component C31 0.1uF
+Added Member To Class: ClassName=[7]- ADC Chip Member=Component C32 0.1uF
+Added Member To Class: ClassName=[7]- ADC Chip Member=Component C33 10nF
+Added Member To Class: ClassName=[7]- ADC Chip Member=Component C34 10nF
+Added Member To Class: ClassName=[8]-DAC and MIC Member=Component C35 22nF
+Added Member To Class: ClassName=[8]-DAC and MIC Member=Component C36 0.1uF
+Added Member To Class: ClassName=[8]-DAC and MIC Member=Component C37 1uF
+Added Member To Class: ClassName=[8]-DAC and MIC Member=Component C38 0.1uF
+Added Member To Class: ClassName=[8]-DAC and MIC Member=Component C39 22nF
+Added Member To Class: ClassName=[8]-DAC and MIC Member=Component C40 0.1uF
+Added Member To Class: ClassName=[8]-DAC and MIC Member=Component C41 1uF
+Added Member To Class: ClassName=[8]-DAC and MIC Member=Component C42 1uF
+Added Member To Class: ClassName=[8]-DAC and MIC Member=Component C43 1uF
+Added Member To Class: ClassName=[8]-DAC and MIC Member=Component C44 0.1uF
+Added Member To Class: ClassName=[8]-DAC and MIC Member=Component C45 10uF
+Added Member To Class: ClassName=[8]-DAC and MIC Member=Component C46 0.1uF
+Added Member To Class: ClassName=[8]-DAC and MIC Member=Component C47 0.1uF
+Added Member To Class: ClassName=[8]-DAC and MIC Member=Component C48 150pF
+Added Member To Class: ClassName=[8]-DAC and MIC Member=Component C49 150pF
+Added Member To Class: ClassName=[8]-DAC and MIC Member=Component C50 10uF
+Added Member To Class: ClassName=[8]-DAC and MIC Member=Component C51 1uF
+Added Member To Class: ClassName=[8]-DAC and MIC Member=Component C52 1uF
+Added Member To Class: ClassName=[8]-DAC and MIC Member=Component C53 0.1uF
+Added Member To Class: ClassName=[9]-STM32F407 Controller Member=Component C54 0.1uF
+Added Member To Class: ClassName=[9]-STM32F407 Controller Member=Component C55 0.1uF
+Added Member To Class: ClassName=[9]-STM32F407 Controller Member=Component C56 30pF
+Added Member To Class: ClassName=[9]-STM32F407 Controller Member=Component C57 0.1uF
+Added Member To Class: ClassName=[9]-STM32F407 Controller Member=Component C58 30pF
+Added Member To Class: ClassName=[9]-STM32F407 Controller Member=Component C59 4.7uF
+Added Member To Class: ClassName=[9]-STM32F407 Controller Member=Component C60 0.1uF
+Added Member To Class: ClassName=[9]-STM32F407 Controller Member=Component C61 0.1uF
+Added Member To Class: ClassName=[9]-STM32F407 Controller Member=Component C62 0.1uF
+Added Member To Class: ClassName=[9]-STM32F407 Controller Member=Component C63 0.1uF
+Added Member To Class: ClassName=[9]-STM32F407 Controller Member=Component C64 0.1uF
+Added Member To Class: ClassName=[9]-STM32F407 Controller Member=Component C65 2.2uF
+Added Member To Class: ClassName=[9]-STM32F407 Controller Member=Component C66 2.2uF
+Added Member To Class: ClassName=[9]-STM32F407 Controller Member=Component C67 1uF
+Added Member To Class: ClassName=[9]-STM32F407 Controller Member=Component C68 1uF
+Added Member To Class: ClassName=[9]-STM32F407 Controller Member=Component C69 0.1uF
+Added Member To Class: ClassName=[9]-STM32F407 Controller Member=Component C70 0.1uF
+Added Member To Class: ClassName=[9]-STM32F407 Controller Member=Component C71 0.1uF
+Added Member To Class: ClassName=[10]-Motor Driver-2 Member=Component C72 0.1uF
+Added Member To Class: ClassName=[10]-Motor Driver-2 Member=Component C73 1uF
+Added Member To Class: ClassName=[10]-Motor Driver-2 Member=Component C75 0.1uF
+Added Member To Class: ClassName=[10]-Motor Driver-2 Member=Component C76 1uF
+Added Member To Class: ClassName=[10]-Motor Driver-2 Member=Component C77 1uF
+Added Member To Class: ClassName=[11]- Power Input and Regulators Member=Component C78 100uF
+Added Member To Class: ClassName=[11]- Power Input and Regulators Member=Component C79 100uF
+Added Member To Class: ClassName=[11]- Power Input and Regulators Member=Component C80 100uF
+Added Member To Class: ClassName=[11]- Power Input and Regulators Member=Component C81 0.1uF
+Added Member To Class: ClassName=[11]- Power Input and Regulators Member=Component C82 1uF
+Added Member To Class: ClassName=[11]- Power Input and Regulators Member=Component C83 10uF
+Added Member To Class: ClassName=[11]- Power Input and Regulators Member=Component C84 10uF
+Added Member To Class: ClassName=[11]- Power Input and Regulators Member=Component C85 1uF
+Added Member To Class: ClassName=[11]- Power Input and Regulators Member=Component C86 0.1uF
+Added Member To Class: ClassName=[11]- Power Input and Regulators Member=Component C87 0.1uF
+Added Member To Class: ClassName=[11]- Power Input and Regulators Member=Component C88 1uF
+Added Member To Class: ClassName=[11]- Power Input and Regulators Member=Component C89 10uF
+Added Member To Class: ClassName=[11]- Power Input and Regulators Member=Component C90 10uF
+Added Member To Class: ClassName=[11]- Power Input and Regulators Member=Component C91 1uF
+Added Member To Class: ClassName=[11]- Power Input and Regulators Member=Component C92 0.1uF
+Added Member To Class: ClassName=[4]- Ethernet PHY Member=Component D1 ESD3V3D9-TP
+Added Member To Class: ClassName=[4]- Ethernet PHY Member=Component D2 ESD3V3D9-TP
+Added Member To Class: ClassName=[4]- Ethernet PHY Member=Component D4 ESD3V3D9-TP
+Added Member To Class: ClassName=[11]- Power Input and Regulators Member=Component D5 MBRS130LT3G
+Added Member To Class: ClassName=[11]- Power Input and Regulators Member=Component D6 BZT52C3V3-7-F
+Added Member To Class: ClassName=[11]- Power Input and Regulators Member=Component D7 MBRS130LT3G
+Added Member To Class: ClassName=[4]- Ethernet PHY Member=Component DS1 RED LED
+Added Member To Class: ClassName=[4]- Ethernet PHY Member=Component FB1 1K
+Added Member To Class: ClassName=[7]- ADC Chip Member=Component FB2 1K
+Added Member To Class: ClassName=[8]-DAC and MIC Member=Component FB3 1K
+Added Member To Class: ClassName=[3]-STM32F103 Debugger Member=Component J1 USB2.0 MINI B
+Added Member To Class: ClassName=[4]- Ethernet PHY Member=Component J3 RJ45 LAN
+Added Member To Class: ClassName=[5]-Motor Driver Schematic Member=Component J4 B2B-XH-A(LF)(SN)
+Added Member To Class: ClassName=[6]-CH340C Member=Component J5 USB2.0 MINI B
+Added Member To Class: ClassName=[7]- ADC Chip Member=Component J6 1.25MM Spade 4PIN
+Added Member To Class: ClassName=[8]-DAC and MIC Member=Component J7 4X1 STEREO
+Added Member To Class: ClassName=[9]-STM32F407 Controller Member=Component J8 B4B-XH-A(LF)(SN)
+Added Member To Class: ClassName=[9]-STM32F407 Controller Member=Component J9 B4B-XH-A(LF)(SN)
+Added Member To Class: ClassName=[10]-Motor Driver-2 Member=Component J10 B2B-XH-A(LF)(SN)
+Added Member To Class: ClassName=[11]- Power Input and Regulators Member=Component J11 Terminal Block 2.5mm
+Added Member To Class: ClassName=[10]-Motor Driver-2 Member=Component Q2 DMHT6016LFJ-13
+Added Member To Class: ClassName=[3]-STM32F103 Debugger Member=Component R1 100K
+Added Member To Class: ClassName=[3]-STM32F103 Debugger Member=Component R2 10K
+Added Member To Class: ClassName=[3]-STM32F103 Debugger Member=Component R3 1.5K
+Added Member To Class: ClassName=[3]-STM32F103 Debugger Member=Component R4 100K
+Added Member To Class: ClassName=[4]- Ethernet PHY Member=Component R5 10K
+Added Member To Class: ClassName=[4]- Ethernet PHY Member=Component R6 3K3
+Added Member To Class: ClassName=[4]- Ethernet PHY Member=Component R7 3K3
+Added Member To Class: ClassName=[4]- Ethernet PHY Member=Component R8 10K
+Added Member To Class: ClassName=[4]- Ethernet PHY Member=Component R9 10K
+Added Member To Class: ClassName=[4]- Ethernet PHY Member=Component R10 10K
+Added Member To Class: ClassName=[4]- Ethernet PHY Member=Component R12 1M
+Added Member To Class: ClassName=[5]-Motor Driver Schematic Member=Component R13 2K
+Added Member To Class: ClassName=[5]-Motor Driver Schematic Member=Component R14 3K3
+Added Member To Class: ClassName=[5]-Motor Driver Schematic Member=Component R15 10K
+Added Member To Class: ClassName=[5]-Motor Driver Schematic Member=Component R16 10K
+Added Member To Class: ClassName=[5]-Motor Driver Schematic Member=Component R17 10K
+Added Member To Class: ClassName=[5]-Motor Driver Schematic Member=Component R18 10K
+Added Member To Class: ClassName=[5]-Motor Driver Schematic Member=Component R19 50mOHM
+Added Member To Class: ClassName=[5]-Motor Driver Schematic Member=Component R20 33K
+Added Member To Class: ClassName=[5]-Motor Driver Schematic Member=Component R21 10K
+Added Member To Class: ClassName=[5]-Motor Driver Schematic Member=Component R22 10K
+Added Member To Class: ClassName=[5]-Motor Driver Schematic Member=Component R23 10K
+Added Member To Class: ClassName=[5]-Motor Driver Schematic Member=Component R24 10K
+Added Member To Class: ClassName=[7]- ADC Chip Member=Component R25 10K
+Added Member To Class: ClassName=[7]- ADC Chip Member=Component R26 10K
+Added Member To Class: ClassName=[7]- ADC Chip Member=Component R27 100K
+Added Member To Class: ClassName=[7]- ADC Chip Member=Component R28 1K
+Added Member To Class: ClassName=[7]- ADC Chip Member=Component R29 1K
+Added Member To Class: ClassName=[8]-DAC and MIC Member=Component R30 51.1R
+Added Member To Class: ClassName=[8]-DAC and MIC Member=Component R31 51.1R
+Added Member To Class: ClassName=[8]-DAC and MIC Member=Component R32 10K
+Added Member To Class: ClassName=[8]-DAC and MIC Member=Component R33 10K
+Added Member To Class: ClassName=[9]-STM32F407 Controller Member=Component R34 100K
+Added Member To Class: ClassName=[9]-STM32F407 Controller Member=Component R35 10K
+Added Member To Class: ClassName=[9]-STM32F407 Controller Member=Component R36 100K
+Added Member To Class: ClassName=[10]-Motor Driver-2 Member=Component R37 2K
+Added Member To Class: ClassName=[10]-Motor Driver-2 Member=Component R38 3K3
+Added Member To Class: ClassName=[10]-Motor Driver-2 Member=Component R39 10K
+Added Member To Class: ClassName=[10]-Motor Driver-2 Member=Component R40 10K
+Added Member To Class: ClassName=[10]-Motor Driver-2 Member=Component R41 10K
+Added Member To Class: ClassName=[10]-Motor Driver-2 Member=Component R42 10K
+Added Member To Class: ClassName=[10]-Motor Driver-2 Member=Component R43 50mOHM
+Added Member To Class: ClassName=[10]-Motor Driver-2 Member=Component R44 33K
+Added Member To Class: ClassName=[10]-Motor Driver-2 Member=Component R45 10K
+Added Member To Class: ClassName=[10]-Motor Driver-2 Member=Component R46 10K
+Added Member To Class: ClassName=[10]-Motor Driver-2 Member=Component R47 10K
+Added Member To Class: ClassName=[10]-Motor Driver-2 Member=Component R48 10K
+Added Member To Class: ClassName=[3]-STM32F103 Debugger Member=Component SW1 TACTILE SWITCH
+Added Member To Class: ClassName=[9]-STM32F407 Controller Member=Component SW3 TACTILE SWITCH
+Added Member To Class: ClassName=[3]-STM32F103 Debugger Member=Component U1 STM32F103C8T6
+Added Member To Class: ClassName=[4]- Ethernet PHY Member=Component U2 DP83826IRHBR
+Added Member To Class: ClassName=[5]-Motor Driver Schematic Member=Component U3 DRV8701ERGET
+Added Member To Class: ClassName=[6]-CH340C Member=Component U4 CH340C
+Added Member To Class: ClassName=[8]-DAC and MIC Member=Component U6 CS43L22-CNZ
+Added Member To Class: ClassName=[8]-DAC and MIC Member=Component U7 IMP34DT05TR
+Added Member To Class: ClassName=[9]-STM32F407 Controller Member=Component U8 STM32F407VGT6
+Added Member To Class: ClassName=[10]-Motor Driver-2 Member=Component U9 DRV8701ERGET
+Added Member To Class: ClassName=[11]- Power Input and Regulators Member=Component U10 LD1117S33CTR
+Added Member To Class: ClassName=[11]- Power Input and Regulators Member=Component U11 LD1117S18TR
+Added Member To Class: ClassName=[9]-STM32F407 Controller Member=Component X2 8Mhz

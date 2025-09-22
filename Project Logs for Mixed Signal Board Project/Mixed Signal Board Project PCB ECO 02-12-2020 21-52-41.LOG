@@ -1,0 +1,3 @@
+Removed Pin From Net: NetName=+12V Pin=C74-1
+Removed Pin From Net: NetName=GND Pin=C74-2
+Removed Member From Class: ClassName=[10]-Motor Driver-2 Member=C74
